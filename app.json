@@ -1,0 +1,15 @@
+{
+    "id": "c0b5b3ad-b127-42cf-bdf5-8af0c644d137",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.4.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "Rocket.Chat",
+        "homepage": "m.patrawala@somaiya.edu",
+        "support": "m.patrawala@somaiya.edu"
+    },
+    "name": "test-net-module",
+    "nameSlug": "test-net-module",
+    "classFile": "TestNetModuleApp.ts",
+    "description": "testing to see if built-in module net works"
+}
